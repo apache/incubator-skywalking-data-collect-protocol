@@ -17,6 +17,7 @@
 #
 
 github:
+    dependabot_updates: false
     description: Data Collect Protocols of Apache SkyWalking
     homepage: https://skywalking.apache.org/
     labels:
